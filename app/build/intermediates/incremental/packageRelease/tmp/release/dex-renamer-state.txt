@@ -1,0 +1,4 @@
+#Fri Apr 01 22:58:47 IST 2022
+base.0=D\:\\doe\\dev\\android\\oss\\BuzzIn\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

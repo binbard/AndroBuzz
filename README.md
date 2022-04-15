@@ -28,7 +28,7 @@ The web view is loading your website. So all it’s show that you have on your w
 **How to use it?**
 Just set your website url on *MainActivity.kt* as URL.
 ```
-internal var URL = "https://jawla.me/buzzin/"
+internal var URL = "https://firebuzz-app-url/code"
 ```
 Here is the video tutorial: https://youtu.be/c5AlbZKKsUk
 
